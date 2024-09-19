@@ -24,7 +24,7 @@ _**Tech Stack**_
 - Google Colab: The main tool used for coding and experimentation
 
 _**How to Use**_
-1.	Flight_Delay_Prediction.ipynb Notebooks:
+1.	Flight_Delay_Prediction.ipynb Notebook:
 - The notebook contains al steps from data preprocessing all the way to evaluating the results.
 - To run each notebook, open the it in Google Colab:
   - Click on the notebook file (Flight_Delay_Prediction.ipynb).
