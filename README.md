@@ -2,6 +2,7 @@
 A project for predicting flight delays using machine learning (ML) and artificial neural networks (ANN) models. The goal is to improve decision-making for airlines and provide better travel experiences for passengers by accurately forecasting potential delays. 
 
 _**Problem Statement**_
+
 Flight delays can lead to significant disruptions, financial losses, and dissatisfaction for both airlines and passengers. This project seeks to predict flight delays using two different models: a Machine Learning (ML) model (Decision Tree) and an Artificial Neural Network (ANN). The models analyze historical flight data to make accurate predictions and enable proactive decision-making for airlines, improving customer satisfaction. 
 Dataset
 The Project’s dataset contained 539383 records about flights and 9 features where each one represents an important aspect in the context of flight delays
@@ -12,8 +13,8 @@ _**Project Workflow**_
 2.	Data Preprocessing: Which involved cleaning the data and preparing it for the modeling stage such as dropping unnecessary columns, scaling the data, transforming the data, and more. 
 
 3.	Modelling stage: Appling a decision tree ML model, in addition to an Artificial Neural Network (ANN) and evaluate the results.
-_**
-Tech Stack**_
+   
+_**Tech Stack**_
 - Python: The main programming language used
 - Pandas: For data manipulation
 - Numpy: For numerical operations
